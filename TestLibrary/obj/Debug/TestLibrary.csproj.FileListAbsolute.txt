@@ -1,0 +1,70 @@
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\TestLibrary.exe.config
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\TestLibrary.exe
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\CsvHelper.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Memory.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\CsvHelper.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Memory.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Form1.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Properties.Resources.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.GenerateResource.cache
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.exe
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.ListItem.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Form2.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Dashboard.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\Layout.chooseUser.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\Layout.facRegister.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\Layout.loginPage.resources
+C:\Users\Ivary Rafael Lapina\Desktop\C# Projects\TestLibrary\TestLibrary\obj\Debug\Layout.studentRegister.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\Layout.chooseUser.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Dashboard.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\Layout.facRegister.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Form1.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Form2.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.ListItem.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\Layout.loginPage.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.Properties.Resources.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\Layout.studentRegister.resources
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.GenerateResource.cache
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.exe
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\TestLibrary.exe.config
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\TestLibrary.exe
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\CsvHelper.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Memory.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\CsvHelper.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Memory.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pierre\Downloads\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
